@@ -76,6 +76,8 @@ Repeller voltage :
 
 	V1 : 
 
+<img width="684" height="906" alt="image" src="https://github.com/user-attachments/assets/d98aea9e-4ecd-4211-8a4d-c6b2ed6e5103" />
+
 **RESULT:**
 
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
